@@ -84,7 +84,7 @@ const setupEventListeners = (client) => {
         
         if (message.author.bot) return;
 
-        if (message.content === '-wick') {
+        if (message.content === '-Secret') {
             if (!message.guild || message.guild.id !== config.server.guildId) {
                 return message.reply(languageManager.translate('messages.invalidGuild'));
             }
@@ -166,14 +166,8 @@ process.on('unhandledRejection', (reason, promise) => {
     try {
         await initializeClients();        
         console.log(`
-██╗    ██╗██╗ ██████╗██╗  ██╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ 
-██║    ██║██║██╔════╝██║ ██╔╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
-██║ █╗ ██║██║██║     █████╔╝     ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
-██║███╗██║██║██║     ██╔═██╗     ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
-╚███╔███╔╝██║╚██████╗██║  ██╗    ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
- ╚══╝╚══╝ ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ 
-                                         Made by Wick Studio
-                                       https://discord.gg/wicks
+                                         Made by 𝐒𝐄𝐂𝐑𝐄𝐓 ᴄꜰᴡ
+                                       https://discord.gg/Secret0
 
 🚀 ${languageManager.translate('system.appTitle')} v2.0
 🤖 ${languageManager.translate('system.activeClients')}: ${clients.length}

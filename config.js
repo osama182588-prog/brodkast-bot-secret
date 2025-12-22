@@ -11,8 +11,8 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: 'Wick Studio', // رسالة حالة البوت
-            type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
+            name: '𝐒𝐄𝐂𝐑𝐄𝐓 ᴄꜰᴡ', // رسالة حالة البوت
+            type: '𝐒𝐄𝐂𝐑𝐄𝐓', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
             status: 'dnd' // online, idle, dnd, invisible
         }
     },
@@ -36,3 +36,4 @@ module.exports = {
     }
 
 };
+

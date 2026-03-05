@@ -1,7 +1,7 @@
 module.exports = {
     bot: {
         tokens: [
-          "MTQ3ODk2MDExMzM4ODYyMTg1NA.G9qJbF.KIuFbIKg_ofE3k9GJKejUEYcjHGtN0swpwi6D0",              // Main bot token - Replace with your actual token
+          "MTQ3ODk2MDExMzM4ODYyMTg1NA.GMKQxg.fjWrQ57ft7y6Wg1AVORvYU3IF87dEImyyaCVAY",              // Main bot token - Replace with your actual token
           "MTQ3ODk2MDIxMTUxNDM2MzkwNg.GgSfO-.ph-0o_Z8kuXv7dtyXpFxggRgvgS4LHOrODz_sk",      // 2 bot token - Uncomment and replace to use
           "MTQ3ODk2MDI0OTIzNzkzMDA2NQ.GX7aBY.1bCmHD0VGCKL35SVc-GlgIcXgItw97aK9n8ndU",       // 3 bot token - Uncomment and replace to use
           "MTQ2NjgwOTY0ODk3NDkyMTk2MQ.GXR_yu.fF06YtvU-S43gjrV2QA8xHA4vOwNGT5P3dgsAI",      // 4 bot token - Uncomment and replace to use
@@ -37,6 +37,7 @@ module.exports = {
     }
 
 };
+
 
 
 

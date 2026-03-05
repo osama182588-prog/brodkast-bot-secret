@@ -2,11 +2,11 @@ module.exports = {
     bot: {
         tokens: [
           "MTQ3ODk2MDExMzM4ODYyMTg1NA.GMKQxg.fjWrQ57ft7y6Wg1AVORvYU3IF87dEImyyaCVAY",              // Main bot token - Replace with your actual token
-          "MTQ3ODk2MDIxMTUxNDM2MzkwNg.GgSfO-.ph-0o_Z8kuXv7dtyXpFxggRgvgS4LHOrODz_sk",      // 2 bot token - Uncomment and replace to use
-          "MTQ3ODk2MDI0OTIzNzkzMDA2NQ.GX7aBY.1bCmHD0VGCKL35SVc-GlgIcXgItw97aK9n8ndU",       // 3 bot token - Uncomment and replace to use
-          "MTQ2NjgwOTY0ODk3NDkyMTk2MQ.GXR_yu.fF06YtvU-S43gjrV2QA8xHA4vOwNGT5P3dgsAI",      // 4 bot token - Uncomment and replace to use
-          "MTQ3ODk2MDI5OTQzOTY4NTczMg.Gcbd0f.s3Tei-pVznKi7C7hzWuYOpJIe71DL42NgnLZFc",       // 5 bot token - Uncomment and replace to use
-          "MTQ3ODk2MDM2MDMwNzI5ODQwNQ.GmDz9G.Ke4LwZ2W_lHTtLfaqFCYHs8yTUJ1UJu3OaUbTs",       // 6 bot token - Uncomment and replace to use
+          "MTQ3ODk2MDIxMTUxNDM2MzkwNg.GGcRzd.3aPjVFT0ssXlocURZGFHaq-8gyzyBBb6g0pV5w",      // 2 bot token - Uncomment and replace to use
+          "MTQ3ODk2MDI0OTIzNzkzMDA2NQ.GfioA7.WaFoPxytZYVyeiOhr5Spuo3UiybPpFMejZDVvk",       // 3 bot token - Uncomment and replace to use
+          "MTQ3ODk2MDI5OTQzOTY4NTczMg.G55WnC.ctSHoBP7TVatutk1qrwvrc7SH1Yi2JfdRrxGU4",      // 4 bot token - Uncomment and replace to use
+          "MTQ3ODk2MDM2MDMwNzI5ODQwNQ.G-DDIG.BV4rDtYtfkGRbZT5mN7i7ig9BSRTKMWB7izWak",       // 5 bot token - Uncomment and replace to use
+          "MTQ3ODk2NTIyNTA2Njg2MDY5NA.GE_JDR.9H5G-zZAcQmfo-8z6CgHHNx1KfSAhwpSwaAlzw",       // 6 bot token - Uncomment and replace to use
         ].filter(Boolean),
 
         defaultLanguage: 'ar', // ar | en لغة البوت
@@ -37,6 +37,7 @@ module.exports = {
     }
 
 };
+
 
 
 
